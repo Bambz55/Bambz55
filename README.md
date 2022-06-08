@@ -1,16 +1,45 @@
-### Hi there 👋
+<html>
 
-<!--
-**Bambz55/Bambz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
 
-Here are some ideas to get you started:
+    <title>Amber Rose</title>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="dmdd.css">
+
+</head>
+
+<body>
+
+    <!-- The next line will add an image to your page -->
+    <img src="AmberR.jpg">
+
+  
+    <!-- Heading 1, your most important heading, starts here -->
+    <h1>To Travel Is To Live...</h1>
+    <!-- Heading 1 finishes here -->
+
+    <hr>
+
+    <h2>About me</h2>
+
+    <p> I enjoy travelling, learning, gaming, all things supernatural, & spending time with my friends & my minature dacshund, Lady.
+    </p>   
+    
+    <p>
+    </p>
+    
+    <p>  
+    </p>
+
+    <h2>My favourite Web sites</h2>
+
+    <!--edit the links and the URLs below for your favourite sites -->
+
+    <ol>
+        <li><a href="http://www.booking.com">Link 1</a></li>
+        <li><a href="http://www.preply.com">Link 2</a></li>
+        <li><a href="http://www.gaia.com">Link 3</a></li>
+    </ol>
+
+</body>
