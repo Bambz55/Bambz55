@@ -12,7 +12,7 @@
 <body>
 
     <!-- The next line will add an image to your page -->
-    <img src="AmberR.jpg">
+    <img src="pip.jpg">
 
   
     <!-- Heading 1, your most important heading, starts here -->
@@ -23,7 +23,7 @@
 
     <h2>About me</h2>
 
-    <p> I enjoy travelling, learning, gaming, all things supernatural, & spending time with my friends & my minature dacshund, Lady.
+    <p> I enjoy travelling, learning, gaming, spirituality & spending time with my friends & my minature dacshunds Lady & Pip.
     </p>   
     
     <p>
